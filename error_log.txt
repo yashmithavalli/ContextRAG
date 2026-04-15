@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "C:\Users\Asus\Documents\ContextRAG\debug.py", line 4, in <module>
+    import app.main
+  File "C:\Users\Asus\Documents\ContextRAG\app\main.py", line 12, in <module>
+    from app.retriever import VectorStore
+  File "C:\Users\Asus\Documents\ContextRAG\app\retriever.py", line 39
+    self.searcher = HybridSearcher(self.faiss_index=self.index, chunks=self.documents, doc_ids=ids)
+                                   ^^^^^^^^^^^^^^^^^
+SyntaxError: expression cannot contain assignment, perhaps you meant "=="?

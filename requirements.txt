@@ -1,0 +1,15 @@
+fastapi
+sentence-transformers
+faiss-cpu
+langchain
+langchain-text-splitters
+pdfplumber
+streamlit
+python-multipart
+pydantic
+uvicorn
+numpy
+rank_bm25
+nltk
+bcrypt
+pyyaml

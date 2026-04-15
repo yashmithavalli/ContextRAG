@@ -1,0 +1,64 @@
+{
+  "default_user_session": [
+    {
+      "role": "user",
+      "content": "What are the main differences between supervised, unsupervised, and reinforcement learning?"
+    },
+    {
+      "role": "assistant",
+      "content": "The main differences between supervised, unsupervised, and reinforcement learning are:\n\n*   **Supervised learning:** Models are trained on **labeled datasets**, learning to map inputs to outputs.\n*   **Unsupervised learning:** Deals with **unlabeled data**, aiming to discover hidden structures or patterns.\n*   **Reinforcement learning:** Involves training agents to make sequential decisions by interacting with an environment and receiving feedback in the form of **rewards or penalties**.",
+      "sources": [
+        {
+          "chunk": "with unlabeled data, aiming to discover hidden structures or patterns. Clustering and dimensionality reduction are common examples of unsupervised learning techniques. Reinforcement learning involves training agents to make sequential decisions by interacting with an environment and receiving feedback in the form of rewards or penalties.",
+          "doc_id": "39",
+          "score": 0.8792929092363316,
+          "breakdown": {
+            "semantic": 1.0,
+            "keyword": 0.5976,
+            "combined": 0.8793
+          }
+        },
+        {
+          "chunk": "Machine learning (ML) has become the backbone of modern AI. It encompasses a variety of techniques, including supervised learning, unsupervised learning, and reinforcement learning. In supervised learning, models are trained on labeled datasets, learning to map inputs to outputs. This approach is widely used in applications such as image classification, spam detection, and speech recognition. Unsupervised learning, on the other hand, deals with unlabeled data, aiming to discover hidden",
+          "doc_id": "38",
+          "score": 0.7030490476549891,
+          "breakdown": {
+            "semantic": 0.5758,
+            "keyword": 1.0,
+            "combined": 0.703
+          }
+        },
+        {
+          "chunk": "The impact of AI extends beyond technical advancements, influencing various sectors such as healthcare, education, finance, and transportation. In healthcare, AI is used for disease diagnosis, drug discovery, and personalized treatment planning. Machine learning models can analyze medical images, predict patient outcomes, and assist clinicians in making informed decisions. In education, AI-powered tools enable personalized learning experiences, adaptive assessments, and intelligent tutoring",
+          "doc_id": "54",
+          "score": 0.18119591999340898,
+          "breakdown": {
+            "semantic": 0.2011,
+            "keyword": 0.1348,
+            "combined": 0.1812
+          }
+        },
+        {
+          "chunk": "At its core, AI refers to the development of computer systems capable of performing tasks that typically require human intelligence. These tasks include reasoning, problem-solving, perception, language understanding, and decision-making. Early AI systems were primarily rule-based, relying on explicitly programmed logic and symbolic representations. While these systems demonstrated success in constrained environments, they struggled to handle ambiguity and adapt to new situations. This",
+          "doc_id": "36",
+          "score": 0.13672996535183574,
+          "breakdown": {
+            "semantic": 0.1953,
+            "keyword": 0.0,
+            "combined": 0.1367
+          }
+        },
+        {
+          "chunk": "ambiguity and adapt to new situations. This limitation led to the emergence of machine learning, a paradigm that enables systems to learn patterns from data rather than relying solely on predefined rules.",
+          "doc_id": "37",
+          "score": 0.13381634640986104,
+          "breakdown": {
+            "semantic": 0.181,
+            "keyword": 0.0237,
+            "combined": 0.1338
+          }
+        }
+      ]
+    }
+  ]
+}

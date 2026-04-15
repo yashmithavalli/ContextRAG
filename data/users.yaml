@@ -1,0 +1,4 @@
+users:
+  Valli:
+    password_hash: $2b$12$sNN/mT82DdFQTbPFdSkJdurkeEwtdh/Ayw34LqpZVMc9Zswv8S.0y
+    role: admin

@@ -1,0 +1,1 @@
+This is a sample document for ContextRAG. It contains some basic information to test the RAG pipeline.
